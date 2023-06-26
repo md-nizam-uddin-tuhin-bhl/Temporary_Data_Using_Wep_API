@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WebApi_Temdata_Curd_Operation.props" />
+</Project>
